@@ -15,8 +15,8 @@ Few tips:
 **Demo #2**
 ![alt text](demo2.png "demo2")
 
-This email was ~~7/10~~[8.5/10](https://www.mail-tester.com/web-g6ipn) on Mailtester which is good. I used my uci email since gmail.com is blacklisted. Still, uci.edu domain doesn't that good reputation.
-If you purchased your new domain, it should be better than ~~7/10~~8.5/10.
+This email was ~~7/10~~ [8.5/10](https://www.mail-tester.com/web-g6ipn) on Mailtester which is good. I used my uci email since gmail.com is blacklisted. Still, uci.edu domain doesn't that good reputation.
+If you purchased your new domain, it should be better than ~~7/10~~ 8.5/10.
 I applied this knowledge to create my own email campaign for my friends to pay their rent on time :)
 
 I hope this can help you from email campaign too!
