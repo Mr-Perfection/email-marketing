@@ -9,7 +9,7 @@ Few tips:
 * Before you start the email campaign, test it with mailtester(https://www.mail-tester.com) to see the reputation of your IP.
 * Inline styling always.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "demo")
+![alt text](demo.png "demo")
 
 
 
