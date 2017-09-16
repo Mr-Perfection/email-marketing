@@ -12,4 +12,11 @@ Few tips:
 ![alt text](demo.png "demo")
 
 
+This email was 7/10 on Mailtester which is good. I used my uci email since gmail.com is blacklisted. Still, uci.edu domain doesn't that good reputation.
+If you purchased your new domain, it should be better than 7/10.
+I applied this knowledge to create my own email campaign for my friends to pay their rent on time :)
+
+I hope this can help you from email campaign too!
+
+
 
